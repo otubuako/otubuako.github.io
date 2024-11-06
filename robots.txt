@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otubuako.github.io/fbl/sitemap_index.txt
+Sitemap: https://otubuako.github.io/kwS/sitemap_index.txt
+Sitemap: https://otubuako.github.io/onO/sitemap_index.txt
+Sitemap: https://otubuako.github.io/tcL/sitemap_index.txt
